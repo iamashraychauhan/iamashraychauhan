@@ -17,7 +17,7 @@
 
 ### 👋 Glad to see you here!
 
-I am a **Frontend Developer** currently working on **YOUR_PROJECT / COMPANY**. 🚀
+I am a **Frontend Developer** currently working as Freelancer**. 🚀
 
 I enjoy problem-solving and learning by building. My main stack is **HTML, CSS, JavaScript, React**.
 
