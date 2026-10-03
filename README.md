@@ -39,11 +39,11 @@ Feel free to connect with me for all things tech or just to say hello! 🌟
 
 ### 💬 Talking about Personal Stuff
 
-- 🛠 I'm currently working with **YOUR_CURRENT_TECH**
-- 🚀 I'm currently exploring **YOUR_LEARNING_TOPICS** (e.g. ML, Gen AI, LLMs)
+- 🛠 I'm currently working with JS, TS, AWS, etc.
+- 🚀 I'm currently exploring ML, Gen AI  etc.
 - 💬 Ask me anything [here](https://github.com/iamashraychauhan/iamashraychauhan/issues)! I am happy to help.
-- 👾 Fun fact: **YOUR_FUN_FACT**
-- 📫 Reach me at: **your.email@example.com**
+- 👾 Fun fact: Equal is Not Always Equal in JS.
+- 📫 Reach me at: **ashraychauhan333@gmail.com**
 
 ### 💙 My Absolute Favorites
 
@@ -99,18 +99,6 @@ Feel free to connect with me for all things tech or just to say hello! 🌟
 </div>
 
 > The snake appears after you add the workflow file `.github/workflows/snake.yml` and run it once.
-
----
-
-### ⚙️ Things I use to get stuff done
-
-- **OS:** YOUR_OS
-- **Laptop:** YOUR_LAPTOP
-- **Browser:** YOUR_BROWSER
-- **Terminal:** YOUR_TERMINAL
-- **Code Editor:** VSCode
-- **Other Tools:** Postman, Notion, Bitwarden
-- **To Stay Updated:** Twitter, Product Hunt, Hacker News
 
 ---
 
